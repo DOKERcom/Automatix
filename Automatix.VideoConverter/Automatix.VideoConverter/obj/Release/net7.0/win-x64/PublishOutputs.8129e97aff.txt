@@ -1,0 +1,6 @@
+C:\Users\Asus\source\Automatix\Automatix.VideoConverter\Automatix.VideoConverter\bin\Release\net7.0\publish\win-x64\Automatix.VideoConverter.pdb
+C:\Users\Asus\source\Automatix\Automatix.VideoConverter\Automatix.VideoConverter\bin\Release\net7.0\publish\win-x64\appconfig.json
+C:\Users\Asus\source\Automatix\Automatix.VideoConverter\Automatix.VideoConverter\bin\Release\net7.0\publish\win-x64\selenium-manager\linux\selenium-manager
+C:\Users\Asus\source\Automatix\Automatix.VideoConverter\Automatix.VideoConverter\bin\Release\net7.0\publish\win-x64\selenium-manager\macos\selenium-manager
+C:\Users\Asus\source\Automatix\Automatix.VideoConverter\Automatix.VideoConverter\bin\Release\net7.0\publish\win-x64\selenium-manager\windows\selenium-manager.exe
+C:\Users\Asus\source\Automatix\Automatix.VideoConverter\Automatix.VideoConverter\bin\Release\net7.0\publish\win-x64\Automatix.VideoConverter.exe

@@ -1,0 +1,45 @@
+﻿{
+  "Configuration": {
+    "TelegramBotToken": "",
+    "AcceptableChatIds": [ "364272154" ],
+    "DownloadedVideoPath": "yt-downloaded-videos/",
+    "CuttedVideoPath": "cutted-videos-for-tiktok-shorts/",
+    "ChangedAspectRatioVideoPath": "changed-aspect-ratio-videos/",
+    "ArchiveVideoPath": "archive/",
+    "BrowserDownloadPath": "downloads/",
+    "ChatIdForReport": "",
+    "WaitingAfterUploadingVideoSeconds": "3600",
+    "HideBrowser": "0",
+    "NumberGenerationTags": "4",
+    "GenerateCapture": "0",
+    "Captions": [
+      "Animal Adventures",
+      "Wild and Wacky Wildlife",
+      "Pet Playtime",
+      "Amusing Animals",
+      "Funny Animal Moments",
+      "Hilarious Pet Hijinks",
+      "Jokes with Pets",
+      "Chuckles with Critters",
+      "Animal Comedians",
+      "Humorous Horses",
+      "Belly Laughs with Beasts"
+    ],
+    "Tags": [
+      "#recommendations",
+      "#рекомендации",
+      "#funny",
+      "#animals",
+      "#jokes",
+      "#pranks",
+      "#cute",
+      "#sweet",
+      "#dogs",
+      "#cats",
+      "#parrots",
+      "#birds",
+      "#реки",
+      "#world"
+    ]
+  }
+}
