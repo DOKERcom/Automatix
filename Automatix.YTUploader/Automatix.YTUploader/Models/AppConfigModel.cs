@@ -8,6 +8,10 @@ public class AppConfigModel
 
     public string? ChatIdForReport { get; set; }
 
+    public string? ConvertedVideoPath { get; set; }
+
+    public string? UploadVideoFromPath { get; set; }
+
     public string? ArchiveVideoPath { get; set; }
 
     public string? WaitingAfterUploadingVideoSeconds { get; set; }

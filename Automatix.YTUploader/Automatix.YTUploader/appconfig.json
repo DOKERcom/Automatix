@@ -1,17 +1,19 @@
 ﻿{
   "Configuration": {
     "TelegramBotToken": "",
-    "AcceptableChatIds": [ "364272154" ],
+    "AcceptableChatIds": [ "" ],
     "DownloadedVideoPath": "yt-downloaded-videos/",
-    "CuttedVideoPath": "cutted-videos-for-tiktok-shorts/",
+    "CuttedVideoPath": "cutted-videos/",
     "ChangedAspectRatioVideoPath": "changed-aspect-ratio-videos/",
     "ArchiveVideoPath": "archive/",
     "BrowserDownloadPath": "downloads/",
+    "ConvertedVideoPath": "converted-videos/",
+    "UploadVideoFromPath": "converted-videos/",
     "ChatIdForReport": "",
-    "WaitingAfterUploadingVideoSeconds": "3600",
+    "WaitingAfterUploadingVideoSeconds": "60",
     "HideBrowser": "0",
     "NumberGenerationTags": "4",
-    "GenerateCapture": "0",
+	"GenerateCapture": "0",
     "Captions": [
       "Animal Adventures",
       "Wild and Wacky Wildlife",

@@ -8,7 +8,7 @@ public class LogService
 {
     public static void Log(string text)
     {
-        using var fstream = new FileStream($"Log-TTUploader-{DateTime.Now:MM.dd.yy}.txt", FileMode.Append);
+        using var fstream = new FileStream($"Log-YTUploader-{DateTime.Now:MM.dd.yy}.txt", FileMode.Append);
 
         var buffer = Encoding.Default.GetBytes(text + "\n");
 

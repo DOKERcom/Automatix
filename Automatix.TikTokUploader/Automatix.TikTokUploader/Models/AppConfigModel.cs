@@ -23,4 +23,5 @@ public class AppConfigModel
     public string? HideBrowser { get; set; }
 
     public string? GenerateCapture { get; set; }
+
 }

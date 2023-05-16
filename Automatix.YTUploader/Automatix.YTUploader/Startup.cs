@@ -14,6 +14,9 @@ public class Startup
         if (!TryCreateFolder(cfg.ArchiveVideoPath))
             return;
 
+        if (!TryCreateFolder(cfg.ConvertedVideoPath))
+            return;
+        
         var videoProcessor = new VideoUploadProcessor(cfg.TelegramBotToken ??
                                                       throw new InvalidOperationException(
                                                           "Startup: TelegramBotToken can't be null or empty"), cfg);

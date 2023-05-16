@@ -14,7 +14,7 @@ public class BrowserAdjustService
         return chromeDriverService;
     }
 
-    public ChromeOptions CreateChromeOptions(bool hideBrowser = true, string defaultDownloadPath = @"C:\Downloads")
+    public ChromeOptions CreateChromeOptions(string url, bool hideBrowser = true, string defaultDownloadPath = @"C:\Downloads")
     {
         var options = new ChromeOptions();
 
@@ -42,7 +42,7 @@ public class BrowserAdjustService
        // options.AddArgument("--disable-javascript");
         options.AddArgument("--no-sandbox");
         options.AddArgument("--disable-dev-shm-usage");
-        //options.AddArgument($"--app={url}");
+        options.AddArgument($"--app={url}");
         options.AddArgument(
             "--user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36'");
         options.AddArgument("ignore-certificate-errors");
